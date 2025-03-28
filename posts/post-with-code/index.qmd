@@ -1,0 +1,19 @@
+---
+title: "Post With Code"
+author: "Harlow Malloc"
+date: "2025-03-28"
+categories: [news, code, analysis]
+image: "image.jpg"
+---
+
+This is a post with executable code.
+
+```{r}
+1 + 1
+```
+
+::: {#p5-container}
+<iframe src="https://editor.p5js.org/Ananya_Ramesh2004/full/5y7UeXUji">
+
+</iframe>
+:::
