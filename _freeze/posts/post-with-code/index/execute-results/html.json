@@ -1,8 +1,8 @@
 {
-  "hash": "00433d932c7c9b6774b6ce008f7577f5",
+  "hash": "85bcc1671b4910f9199183d8705ca2b8",
   "result": {
     "engine": "knitr",
-    "markdown": "---\ntitle: \"Post With Code\"\nauthor: \"Harlow Malloc\"\ndate: \"2025-03-28\"\ncategories: [news, code, analysis]\nimage: \"image.jpg\"\n---\n\n\n\nThis is a post with executable code.\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n\n\n\n::: {#p5-container}\n<iframe src=\"https://editor.p5js.org/Ananya_Ramesh2004/full/5y7UeXUji\">\n\n</iframe>\n:::\n",
+    "markdown": "---\ntitle: \"Post With Code\"\nauthor: \"Harlow Malloc\"\ndate: \"2025-03-28\"\ncategories: [news, code, analysis]\nimage: \"image.jpg\"\n---\n\n\n\nThis is a post with executable code.\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n\n\n\n::: {#p5-container}\n<iframe src=\"https://editor.p5js.org/Ananya_Ramesh2004/full/5y7UeXUji\">\n\n</iframe>\n:::\n\n::: {#p5-container} \n<iframe src=\"https://editor.p5js.org/Ananya_Ramesh2004/full/C4v1KSSYf\">\n\n</iframe> \n:::\n\n\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"

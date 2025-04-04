@@ -1,19 +1,14 @@
 ---
-title: "Post With Code"
-author: "Harlow Malloc"
+title: "A1"
+author: "Ananya Ramesh"
 date: "2025-03-28"
 categories: [news, code, analysis]
-image: "image.jpg"
 ---
 
 This is a post with executable code.
 
-```{r}
-1 + 1
-```
-
 ::: {#p5-container}
-<iframe src="https://editor.p5js.org/Ananya_Ramesh2004/full/5y7UeXUji">
+<iframe src="https://editor.p5js.org/Ananya_Ramesh2004/full/C4v1KSSYf" height="800px" width="100%" style="border: none; display: block; margin: 0 auto;">
 
 </iframe>
 :::
